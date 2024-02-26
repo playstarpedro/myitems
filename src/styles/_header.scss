@@ -1,0 +1,13 @@
+#header {
+    .container {
+        align-items: center;    
+
+        .brand {
+            display: flex;
+            img {
+                height: 50px;
+                padding-right: 10px;
+            }
+        }
+    }
+}
